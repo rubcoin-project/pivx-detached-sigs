@@ -1,1 +1,1 @@
-# pivx-detached-sigs
+# rubcoin-detached-sigs
